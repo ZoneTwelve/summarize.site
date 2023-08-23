@@ -1,15 +1,14 @@
 {
   "name": "Summarize",
   "description": "Summarize any article using OpenAI's ChatGPT",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "manifest_version": 3,
   "homepage_url": "https://github.com/clmnin/summarize.site",
   "action": {},
   "permissions": [
     "scripting",
     "activeTab",
-    "storage",
-    "clipboardWrite"
+    "storage"
   ],
   "options_ui": {
     "page": "options.html",

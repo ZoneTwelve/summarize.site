@@ -2,7 +2,7 @@
 
 Browser Extension to summarize web page content using ChatGPT, support Chrome (more on the way!)
 
-[![Watch the video](./assets/screenshot.png)](https://www.youtube.com/watch?v=87IiZSrF9HI)
+[![Watch the video](./assets/screenshot.png)](https://www.youtube.com/watch?v=yrkXIOFebks)
 
 ## Installation
 
@@ -48,4 +48,4 @@ Browser Extension to summarize web page content using ChatGPT, support Chrome (m
 
 ## Credit
 
-This project is inspired by [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)
+<a target="_blank" href="https://icons8.com/icon/80308/favorites">Bookmark</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
