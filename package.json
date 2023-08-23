@@ -15,6 +15,7 @@
     "eventsource-parser": "^0.0.5",
     "expiry-map": "^2.0.0",
     "html-to-md": "^0.8.3",
+    "js-yaml": "^4.1.0",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
